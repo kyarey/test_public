@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><CommVaultOEMOrder CellCount="1"><LAServerInfo CCGuid="25249ED4-47E5-4630-8A4B-B4D4F0B99711" CommCellId="9001133 (0x8958AD)" DisableCMR="0" InheritedLicenseType="0" NFR="False" OEM="CommVault" OEMId="1" ObtainServerId="True" ParentGuid="" Product="QiNetix" ProductId="1" Release="11.0.0" ReleaseId="21" ServerStatus="0" SubscriptionBased="No" SyncuplicenseswithCS="False" Type="NewLicense" UserAction="NewServerConfig"><GenerationDate Date="3/29/2021 4:41:17 AM" UNIXDate="1617007277"/><LACustomers ContactAddress="" ContactFirstName="" ContactLastName="" CustomerNumber="" Organization=""><Notes/></LACustomers><LAServerHistory ActionDate="" ActionSource="CvGenerator" DrIpAddress="" EvaluationDays="90" ExpirationDate="" GenMethod="Web" GeneratorVersion="11.0.0" IpAddressType="DynamicType" KeyType="0" LicenseKey="" LicenseType="PilotType" MainIpAddress="" OrderDate="" OrderNumber="" PseudoOldIpAddress="" RequestorFirstName="" RequestorLastName="" UserFirstName="" UserLastName="" UserLogIn=""><Notes/></LAServerHistory><LAPartNumbers><CvPartNumber ClassicQty="0" ClassicQtyEval="0" ExpiryDate="" PartNumber="P_CV_11.0.0" PartNumberName="CommVault Bundle" Quantity="0" QuantityEval="1"/></LAPartNumbers><LAServerLicenses>
+  <License ExpiryDate="" LicenseName="Server File System" LicenseType="1" Quantity="0" QuantityEval="200"/>
+  <License ExpiryDate="" LicenseName="Laptop and Desktop" LicenseType="2" Quantity="0" QuantityEval="100"/>
+  <License ExpiryDate="" LicenseName="Application Class 1" LicenseType="3" Quantity="0" QuantityEval="500"/>
+  <License ExpiryDate="" LicenseName="MediaAgent" LicenseType="11" Quantity="0" QuantityEval="100"/>
+  <License ExpiryDate="" LicenseName="Application Class 3" LicenseType="16" Quantity="0" QuantityEval="100"/>
+  <License ExpiryDate="" LicenseName="Application Class 2" LicenseType="17" Quantity="0" QuantityEval="100"/>
+  <License ExpiryDate="" LicenseName="NAS Client" LicenseType="25" Quantity="0" QuantityEval="-1"/>
+  <License ExpiryDate="" LicenseName="File System Archiving" LicenseType="63" Quantity="0" QuantityEval="50"/>
+  <License ExpiryDate="" LicenseName="Centera Mount Path" LicenseType="71" Quantity="0" QuantityEval="10"/>
+  <License ExpiryDate="" LicenseName="VaultTracker Enterprise" LicenseType="82" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="Disk Library Connector (DDO)" LicenseType="84" Quantity="0" QuantityEval="100"/>
+  <License ExpiryDate="" LicenseName="Data Encryption" LicenseType="85" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="WORM Media Support" LicenseType="90" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="GridStore" LicenseType="91" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="1-Touch Server for Unix" LicenseType="102" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="Content Addressed Storage" LicenseType="105" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="1-Touch Server for MS Windows" LicenseType="110" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="DataArchiver for MS Exchange Public Folder" LicenseType="122" Quantity="0" QuantityEval="-1"/>
+  <License ExpiryDate="" LicenseName="ContinuousDataReplicator for MS Windows" LicenseType="124" Quantity="0" QuantityEval="-1"/>
+  <License ExpiryDate="" LicenseName="Cluster Group" LicenseType="127" Quantity="0" QuantityEval="10"/>
+  <License ExpiryDate="" LicenseName="DataArchiver for MS SharePoint" LicenseType="129" Quantity="0" QuantityEval="-1"/>
+  <License ExpiryDate="" LicenseName="ContinuousDataReplicator for Unix" LicenseType="133" Quantity="0" QuantityEval="-1"/>
+  <License ExpiryDate="" LicenseName="Auxiliary Copy Encryption" LicenseType="139" Quantity="0" QuantityEval="10"/>
+  <License ExpiryDate="" LicenseName="Compliance Search" LicenseType="141" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="Virtual Server" LicenseType="143" Quantity="0" QuantityEval="-1"/>
+  <License ExpiryDate="" LicenseName="Offline Mining Enabler" LicenseType="157" Quantity="0" QuantityEval="150"/>
+  <License ExpiryDate="" LicenseName="Hardware Snapshot Enabler" LicenseType="163" Quantity="0" QuantityEval="50"/>
+  <License ExpiryDate="" LicenseName="De-Duplication Block Level" LicenseType="168" Quantity="0" QuantityEval="50"/>
+  <License ExpiryDate="" LicenseName="De-Duplication to Tape" LicenseType="169" Quantity="0" QuantityEval="50"/>
+  <License ExpiryDate="" LicenseName="Reporting Server" LicenseType="171" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="Client Count" LicenseType="172" Quantity="0" QuantityEval="1000"/>
+  <License ExpiryDate="" LicenseName="Advanced Reporting" LicenseType="174" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="Object Link" LicenseType="179" Quantity="0" QuantityEval="-1"/>
+  <License ExpiryDate="" LicenseName="Cloud Storage" LicenseType="190" Quantity="0" QuantityEval="10"/>
+  <License ExpiryDate="" LicenseName="NetApp Snap Management" LicenseType="196" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="Protected Mailboxes" LicenseType="203" Quantity="0" QuantityEval="1"/>
+  <License ExpiryDate="" LicenseName="Data Protection Enterprise infrastructure" LicenseType="100002" Quantity="0" QuantityEval="100"/>
+  <License ExpiryDate="" LicenseName="Data Archive Enterprise infrastructure" LicenseType="100004" Quantity="0" QuantityEval="100"/>
+  <License ExpiryDate="" LicenseName="Data Protection Snapshot" LicenseType="100005" Quantity="0" QuantityEval="500"/>
+  <License ExpiryDate="" LicenseName="Data Protection Replication" LicenseType="100006" Quantity="0" QuantityEval="500"/>
+  <License ExpiryDate="" LicenseName="Archived Mailboxes" LicenseType="100013" Quantity="0" QuantityEval="100"/>
+  <License ExpiryDate="" LicenseName="Content Indexed Objects (In Millions)" LicenseType="100017" Quantity="0" QuantityEval="10"/>
+  <License ExpiryDate="" LicenseName="MailBox Archive Solution" LicenseType="100028" Quantity="0" QuantityEval="100"/>
+</LAServerLicenses><LicenseKey Activationkey="1617007277" ActivationkeyInHex="0x606192AD"><![CDATA[
+CommVault License:
+KEY: GGJgJzZaK-VCzgzC74-774744C7-4477744C-SZTS8fCz-CzCzCSgg-ggggmCng-gCT8Cg1C-gCaTaiZt-fiCiFtTC-iJmgCSKi-nCnifi4g-UZZFzz1C-gCgCgCgC-FCz1NS9a-1Ji9m1z7-i9U1Ji9z-g1Ji9zz1-Ji9zZ177-7447449m-41ma9iF1-89Ta1z9T-i1Ji9TT1-z9T81z9T-n1z9JJ1z-9JZ1z9Jt-1z9F8174-4777749F-b1444777-449F71K9-Sz144447-4779ST17-77777749-SU189SV1-z9S41777-747479ZV-1ZJ9Km1m-a98S1ma9-8Z1ma98n-1z98N1mt-S98X1z9n-m1777474-449nt189-Ni1z9bU1-z9zSJKa1-Ji9zSJ8i-1Ji9zSJK-T1z7i9zS-J8J1z7i9-zSJ8V1Ji-9zSJUz1K-9zSJnb1J-iCCJgJzZ-a8fCUaXS-z78g
+CommVault License End:
+]]></LicenseKey><MetallicLicenseKey/></LAServerInfo></CommVaultOEMOrder>
